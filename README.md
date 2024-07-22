@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 [![MasterHead ](https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Animations_with_HTML5_2000x1100_v2-1.gif)](https://aaka2409.github.io)
-<h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
-<h3 align="center">A passionate frontend developer an Software Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
+<h3 align="center">A passionate flutter Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaka2409&label=Profile%20views&color=0e75b6&style=flat" alt="aaka2409" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://gfghmritm.000webhostapp.com/posts.php](https://gfghmritm.000webhostapp.com/posts.php)
 
-- 📫 How to reach me **aakashkumar240902@gmail.com**
+- 📫 How to reach me **pks050505@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s8xUNudAJQ2srQH2_T2YozzC5WSJyxQj/view?usp=sharing](https://drive.google.com/file/d/1s8xUNudAJQ2srQH2_T2YozzC5WSJyxQj/view?usp=sharing)
 
