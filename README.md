@@ -4,33 +4,21 @@
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">A passionate flutter Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaka2409&label=Profile%20views&color=0e75b6&style=flat" alt="aaka2409" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaka2409" alt="aaka2409" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aakash41097683" target="blank"><img src="https://img.shields.io/twitter/follow/aakash41097683?logo=twitter&style=for-the-badge" alt="aakash41097683" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
-- 👨‍💻 All of my projects are available at [https://aakash-24portfolio.netlify.app/](https://aakash-24portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://gfghmritm.000webhostapp.com/posts.php](https://gfghmritm.000webhostapp.com/posts.php)
 
 - 📫 How to reach me **pks050505@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s8xUNudAJQ2srQH2_T2YozzC5WSJyxQj/view?usp=sharing](https://drive.google.com/file/d/1s8xUNudAJQ2srQH2_T2YozzC5WSJyxQj/view?usp=sharing)
-
-- ⚡ Fun fact **70% Of The Coding Jobs Has Nothing To Do With Technology At All**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aakash41097683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash41097683" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/purushottam-kumar-3a260014a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Purushottam kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/aakashkumar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakashkumar24" height="30" width="40" /></a>
-<a href="https://instagram.com/aakashrajput_2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashrajput_2409" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aakash_kum2409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aakash_kum2409" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aakashkumar24091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aakashkumar24091" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aakashkumar240902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashkumar240902" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aakashkumar240902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aakashkumar240902" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aakashkumar240902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aakashkumar240902" height="30" width="40" /></a>
+
+
+
+
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
