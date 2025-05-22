@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead ](https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Animations_with_HTML5_2000x1100_v2-1.gif)](https://aaka2409.github.io)
+
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">A passionate flutter Developer from India</h3>
 
