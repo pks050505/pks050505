@@ -1,27 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Purushottam Kumar
 
+A passionate **Flutter Developer** from India, dedicated to building seamless and responsive mobile applications. With expertise in Flutter, Dart, and Firebase, I enjoy creating user-friendly solutions that solve real-world problems.
 
-<h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
-<h3 align="center">A passionate flutter Developer from India</h3>
+---
 
+## 📫 Get in Touch
+- **Email**: pks050505@gmail.com  
+- **LinkedIn**: [Purushottam Kumar](https://www.linkedin.com/in/purushottam-kumar-3a260014a/)
 
-- 📫 How to reach me **pks050505@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠️ Skills & Technologies
+- **Languages**: Dart, Python, C++, JavaScript, C  
+- **Frameworks & Libraries**: Flutter, RxDart, Node.js, Flutter Bloc  
+- **Databases**: Firebase, MongoDB  
+- **Tools**: Git, Figma, Heroku, Google Cloud Platform  
+- **Others**: Responsive UI Design, API Integration, State Management
 
-<a href="https://www.linkedin.com/in/purushottam-kumar-3a260014a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Purushottam kumar" height="30" width="40" /></a>
+---
 
+## 🚀 Projects
 
-</p>
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
--->
+### 1. **E-Commerce App**  
+A fully functional e-commerce application built with Flutter and Firebase.  
+- **Features**: User authentication, product catalog, cart functionality, and payment integration.  
+- **Tech Stack**: Flutter, Dart, Firebase, Provider for state management.  
+- **GitHub**: [Link to repo (add your link here)]  
 
+### 2. **Task Manager App**  
+A productivity app to manage tasks with real-time updates.  
+- **Features**: Add/edit/delete tasks, push notifications, and offline support.  
+- **Tech Stack**: Flutter, Dart, Firebase, GetX for state management.  
+- **GitHub**: [Link to repo (add your link here)]  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pks050505&show_icons=true&locale=en&layout=compact" alt="pks050505" /></p>
+### 3. **Weather App**  
+A weather forecasting app with a clean UI and real-time data.  
+- **Features**: Current weather, 5-day forecast, and location-based updates.  
+- **Tech Stack**: Flutter, Dart, OpenWeather API, Bloc pattern.  
+- **GitHub**: [Link to repo (add your link here)]  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pks050505&show_icons=true&locale=en" alt="pks050505" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pks050505&" alt="pks050505" /></p>
+## 📊 GitHub Stats
+
+![Purushottam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pks050505&show_icons=true&locale=en)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pks050505&show_icons=true&locale=en&layout=compact)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pks050505&)
+
+---
+
+## 🏆 Achievements
+- Contributed to open-source Flutter projects.  
+- Built 3+ production-ready mobile applications.  
+- Active participant in coding communities on LinkedIn.
+
+---
+
+Feel free to reach out if you'd like to collaborate or discuss Flutter development!
