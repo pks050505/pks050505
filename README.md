@@ -45,7 +45,7 @@ A generative AI tool built in Python to provide cryptocurrency-related insights 
 - **Tech Stack**: Python, LangChain (`langchain==0.2.16`, `langchain-groq==0.1.9`, `langchain-community==0.2.17`, `langgraph==0.2.14`), FastAPI (`fastapi==0.115.0`), Uvicorn (`uvicorn==0.30.6`), Pydantic (`pydantic==2.9.2`), Google Cloud Storage (`google-cloud-storage==2.18.2`), Docker, Google Cloud Build, Google Cloud Run.  
 - **GitHub**: [Link to repo (https://github.com/pks050505/aichatBot.git)]
 
-### 4. **Scalable Web Application with Kubernetes (Personal learning project)**  
+### 4. **Scalable Web Application with Kubernetes (2025 Personal learning project)**  
 A demo web application with separate frontend and backend projects, connected via APIs and deployed on Kubernetes with auto-scaling.  
 - **Features**: User-friendly webpage, RESTful API integration, and auto-scaling based on traffic.  
 - **Tech Stack**:  
