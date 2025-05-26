@@ -11,8 +11,9 @@ A passionate **Flutter Developer** from India, dedicated to building seamless an
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages**: Dart, Python, C++, JavaScript, C  
-- **Frameworks & Libraries**: Flutter, RxDart, Node.js, Flutter Bloc  
+- **Languages**: Dart
+- **Familiar Technonogy**:  java , Javascript ,Node.js
+- **Frameworks & Libraries**: Flutter, RxDart,  Flutter Bloc  
 - **Databases**: Firebase, MongoDB, Redis  
 - **DevOps & Cloud**: Kubernetes, ArgoCD, Docker, Linux, Google Cloud Platform (Cloud Build, Cloud Run, Cloud Storage, Memorystore for Redis)  
 - **Tools**: Git, Figma, Heroku, Google Cloud Platform  
