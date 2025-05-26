@@ -23,7 +23,8 @@ A passionate **Flutter Developer** from India, dedicated to building seamless an
 ## 🚀 Projects
 
 ### 1. **Idigitalpreneur**  
-A live mobile application for selling digital courses in various packages (e.g., Elite, Premium, Supreme). The app supports account management for users and affiliates, an affiliate training program with YouTube videos, and a link generator section for affiliates to create shareable course links. Courses are hosted on Vimeo and played within the app using the Vimeo player.  
+A live mobile application for selling digital courses in various packages (e.g., Elite, Premium, Supreme). The app supports account management for users and affiliates, an affiliate training program with YouTube videos, and a link generator section for affiliates to create shareable course links. Courses are hosted on Vimeo and played within the app using the Vimeo player.The app has achieved over 300k installs across both the Google Play Store and Apple App Store.
+
 - **Store Links**:  
   - [Play Store](https://play.google.com/store/apps/details?id=com.idigitalpreneur.app)  
   - [App Store](https://apps.apple.com/us/app/idigitalpreneur/id6443746600)  
