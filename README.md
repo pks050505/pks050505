@@ -22,7 +22,7 @@ A passionate **Flutter Developer** from India, dedicated to building seamless an
 
 ## 🚀 Projects
 
-### 1. **Astitva Scanner**  
+### 1. **Astitva Scanner (2023)**  
 A mobile scanner application developed for a live event at Indira Gandhi Indoor Stadium, designed to work in parallel with BookMyShow for seamless ticket verification. The app exclusively served users who booked tickets through our website, ensuring a secure and efficient entry process. It leveraged **Bloc** and **RxDart** for robust state management, providing real-time updates and a responsive user experience.  
 - **Features**: Real-time QR code ticket scanning and validation,  seamless integration with the event's ticketing system.  
 - **Tech Stack**: Flutter, Dart, Firebase (Firestore for ticket data, Authentication via `firebase_auth` for user management), `mobile_scanner` for QR code scanning, `flutter_bloc` and `rxdart` for state management, `equatable` for value comparison, `http` for API calls, `dartz` for functional programming, and `intl` for formatting.  
