@@ -29,13 +29,13 @@ A live mobile application for selling digital courses in various packages (e.g.,
   - [App Store](https://apps.apple.com/us/app/idigitalpreneur/id6443746600)  
 - **Features**: User and affiliate account management, digital course purchasing, Vimeo-hosted course playback, affiliate link generation, push notifications, analytics, and secure storage for sensitive data.  
 - **Tech Stack**: Flutter, Dart, Firebase (`firebase_auth`, `cloud_firestore`, `firebase_analytics`, `firebase_crashlytics`, `firebase_storage`, `firebase_remote_config`, `firebase_dynamic_links`), `flutter_bloc`, `hydrated_bloc`, `rxdart` for state management, `webview_flutter` for Vimeo player integration, `youtube_player_flutter` for training videos, `mobile_scanner` for QR code scanning, `http` for API calls, `dartz` for functional programming, `shared_preferences` and `flutter_secure_storage` for local storage, `introduction_screen` for onboarding, `carousel_slider` for course showcases, `fl_chart` for analytics visualization, `connectivity_plus` for network status, `share_plus` for link sharing, `screen_protector` to prevent screen recording, and `intl` for formatting.  
-- **GitHub**: [Link to repo (add your link here)]
+
 
 ### 2. **Astitva Scanner (2023)**  
 A mobile scanner application developed for a live event at Indira Gandhi Indoor Stadium, designed to work in parallel with BookMyShow for seamless ticket verification. The app exclusively served users who booked tickets through our website, ensuring a secure and efficient entry process. It leveraged **Bloc** and **RxDart** for robust state management, providing real-time updates and a responsive user experience.  
 - **Store Links**:  
-  - [Play Store](https://play.google.com/store/apps/details?id=com.astitva.scanner) *(Note: Links may not be available as this was an event-specific app)*  
-  - [App Store](https://apps.apple.com/us/app/astitva-scanner/id1234567890) *(Note: Links may not be available as this was an event-specific app)*  
+  -  *(Note: Links  not  available because this was an event-specific app)*  
+ 
 - **Features**: Real-time QR code ticket scanning and validation, seamless integration with the event's ticketing system.  
 - **Tech Stack**: Flutter, Dart, Firebase (Firestore for ticket data, Authentication via `firebase_auth` for user management), `mobile_scanner` for QR code scanning, `flutter_bloc` and `rxdart` for state management, `equatable` for value comparison, `http` for API calls, `dartz` for functional programming, and `intl` for formatting.  
 - **GitHub**: [Link to repo (add your link here)]
