@@ -36,7 +36,7 @@ A mobile scanner application developed for a live event at Indira Gandhi Indoor 
 - **Store Links**: *(Note: Links not available because this was an event-specific app)*  
 - **Features**: Real-time QR code ticket scanning and validation, seamless integration with the event's ticketing system.  
 - **Tech Stack**: Flutter, Dart, Firebase (Firestore for ticket data, Authentication via `firebase_auth` for user management), `mobile_scanner` for QR code scanning, `flutter_bloc` and `rxdart` for state management, `equatable` for value comparison, `http` for API calls, `dartz` for functional programming, and `intl` for formatting.  
-- **GitHub**: [Link to repo (add your link here)]
+- **GitHub**: [Link to repo (https://github.com/pks050505/aichatBot.git)]
 
 ### 3. **Crypto Chatbot**  
 A generative AI tool built in Python to provide cryptocurrency-related insights and interactions through a chatbot interface. The project is hosted on Google Cloud Platform, with code stored on GitHub, built into a Docker container using Cloud Build, and deployed on Cloud Run with automatic CI/CD pipelines for seamless updates.  
