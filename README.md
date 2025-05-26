@@ -42,7 +42,7 @@ A mobile scanner application developed for a live event at Indira Gandhi Indoor 
 - **Tech Stack**: Flutter, Dart, Firebase (Firestore for ticket data, Authentication via `firebase_auth` for user management), `mobile_scanner` for QR code scanning, `flutter_bloc` and `rxdart` for state management, `equatable` for value comparison, `http` for API calls, `dartz` for functional programming, and `intl` for formatting.  
 - **GitHub**: [Link to repo (add your link here)]
 
-### 3. **Scalable Web Application with Kubernetes**  
+### 3. **Scalable Web Application with Kubernetes (Personal learning project)**  
 A demo web application with separate frontend and backend projects, connected via APIs and deployed on Kubernetes with auto-scaling.  
 - **Features**: User-friendly webpage, RESTful API integration, and auto-scaling based on traffic.  
 - **Tech Stack**:  
