@@ -22,7 +22,13 @@ A passionate **Flutter Developer** from India, dedicated to building seamless an
 
 ## 🚀 Projects
 
-### 1. **Scalable Web Application with Kubernetes**  
+### 1. **Astitva Scanner**  
+A mobile scanner application developed for a live event at Indira Gandhi Indoor Stadium, designed to work in parallel with BookMyShow for seamless ticket verification. The app exclusively served users who booked tickets through our website, ensuring a secure and efficient entry process. It leveraged **Bloc** and **RxDart** for robust state management, providing real-time updates and a responsive user experience.  
+- **Features**: Real-time QR code ticket scanning and validation, user authentication, offline support for low-connectivity environments, and seamless integration with the event's ticketing system.  
+- **Tech Stack**: Flutter, Dart, Firebase (Firestore for ticket data, Authentication via `firebase_auth` for user management), `mobile_scanner` for QR code scanning, `flutter_bloc` and `rxdart` for state management, `equatable` for value comparison, `http` for API calls, `dartz` for functional programming, and `intl` for formatting.  
+- **GitHub**: [Link to repo (add your link here)]  
+
+### 2. **Scalable Web Application with Kubernetes**  
 A demo web application with separate frontend and backend projects, connected via APIs and deployed on Kubernetes with auto-scaling.  
 - **Features**: User-friendly webpage, RESTful API integration, and auto-scaling based on traffic.  
 - **Tech Stack**:  
@@ -31,19 +37,19 @@ A demo web application with separate frontend and backend projects, connected vi
   - **Deployment**: Kubernetes for container orchestration, Docker for containerization, Linux for server management, deployed on Google Cloud Platform (GCP) using ArgoCD for continuous deployment.  
 - **GitHub**: [Link to repo (add your link here)]  
 
-### 2. **E-Commerce App**  
+### 3. **E-Commerce App**  
 A fully functional e-commerce application built with Flutter and Firebase, enhanced with analytics and payment integrations.  
 - **Features**: User authentication, product catalog, cart functionality, payment integration with Cashfree and Razorpay, Firebase Notifications for user engagement, OneSignal for push notifications, and Firebase Analytics for tracking user behavior.  
 - **Tech Stack**: Flutter, Dart, Firebase (Firestore, Notifications, Analytics), OneSignal, Cashfree, Razorpay, Provider for state management.  
 - **GitHub**: [Link to repo (add your link here)]  
 
-### 3. **Task Manager App**  
+### 4. **Task Manager App**  
 A productivity app to manage tasks with real-time updates.  
 - **Features**: Add/edit/delete tasks, push notifications, and offline support.  
 - **Tech Stack**: Flutter, Dart, Firebase, GetX for state management.  
 - **GitHub**: [Link to repo (add your link here)]  
 
-### 4. **Weather App**  
+### 5. **Weather App**  
 A weather forecasting app with a clean UI and real-time data.  
 - **Features**: Current weather, 5-day forecast, and location-based updates.  
 - **Tech Stack**: Flutter, Dart, OpenWeather API, Bloc pattern.  
